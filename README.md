@@ -2,6 +2,8 @@
 
 Aplikasi manajemen task berbasis web dengan autentikasi JWT, CRUD user/jabatan/tugas, dan audit log.
 
+![Task Todo](docs/task-todo.png)
+
 ## Fitur
 
 - Login & register
