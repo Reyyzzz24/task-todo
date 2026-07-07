@@ -1,0 +1,6 @@
+tmp
+.env
+.air.toml
+.git
+.gitignore
+**/*_test.go

@@ -1,0 +1,7 @@
+{
+  "name": "case-test",
+  "private": true,
+  "scripts": {
+    "dev": "run-dev.bat"
+  }
+}
